@@ -12,6 +12,4 @@ Depois abra o CMD e digite: pip install -r requirements.txt (verifique se você 
 
 Depois de instalado, digite jupyter notebook no CMD para abrir o Jupyter
 
-Depois de aberto o jupyter, navegar até onde você baixou os arquivos e 
-
-clicar no .ipynb (IMPORTANTE, para você poder ler os arquivos precisa tê-los na mesma pasta do .ipynb)
+Depois de aberto o jupyter, navegar até onde você baixou os arquivos e clicar no .ipynb (IMPORTANTE, para você poder ler os arquivos precisa tê-los na mesma pasta do .ipynb)
